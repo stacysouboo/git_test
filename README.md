@@ -1,1 +1,1 @@
-# git_test
+This is Stacy's first git project!
